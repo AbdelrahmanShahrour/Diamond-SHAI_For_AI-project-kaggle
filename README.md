@@ -21,6 +21,6 @@ The result:
 
 We have a model for which we enter the details of the diamond and get the approximate price for it
 
-The team : 
+## The team : 
 
-me and @RazanJamal01
+me and [@RazanJamal01](https://github.com/RazanJamal01)
